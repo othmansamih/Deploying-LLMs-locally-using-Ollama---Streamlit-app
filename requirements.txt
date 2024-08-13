@@ -1,0 +1,8 @@
+streamlit
+langchain_community
+unstructured
+unstructured[pdf]
+langchain-huggingface
+faiss-cpu
+langchain-ollama
+langchain-openai
